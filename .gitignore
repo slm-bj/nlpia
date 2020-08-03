@@ -73,8 +73,9 @@ src/nlpia/bigdata/*.tgz
 .vscode
 .coveralls.yml
 
-# Anaconda conda
+# pip and conda environments
 envs/
+env/
 record.txt
 
 # Backups
